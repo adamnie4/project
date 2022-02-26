@@ -2,7 +2,7 @@ library(shiny)
 library(plotly)
 shinyUI(fluidPage(
 
-  titlePanel("Albert Niewiadomski, indeks: 116463"),
+  titlePanel("Adam Niewiadomski),
 
   sidebarLayout(
 
